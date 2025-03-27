@@ -1,5 +1,5 @@
 - 👋 Hi, I’m George Pineda
 - 👀 I’m interested in Ai
-- 🌱 I’m currently learning transformers using hugging face and pytorch
+- 🌱 I’m currently transformers applications using hugging face and pytorch
 - 💞️ I’m looking to collaborate on gen-ai projects
 - 📫 How to reach me gpineda@pucp.edu.pe
